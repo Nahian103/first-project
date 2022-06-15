@@ -1,4 +1,6 @@
-package classone;
+ 
+   // homework 1
+ package classone;
 
 public class firstProgram {
 	// comments is all always after those two lines
@@ -10,3 +12,16 @@ public class firstProgram {
 	    }
 	}
 }
+ 
+ // homework 2
+ package classone;
+
+public class classruns {
+	public static void main(String[] args) {
+		int a = 3;
+		while (a<=100) {
+			System.out.println(a);
+			a++;
+		}
+	}
+	
